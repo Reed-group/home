@@ -1,3 +1,10 @@
+---
+title:  "Advanced examples"
+mathjax: false
+layout: post
+categories: media
+---
+
 ## Hello, world!
 On this day. The first page on the reed website went up.
 ---------------------
