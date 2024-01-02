@@ -1,8 +1,7 @@
 ---
-title:  "Advanced examples"
-mathjax: false
+title:  "Hello, world!"
 layout: post
-categories: media
+categories: News
 ---
 
 ## Hello, world!
