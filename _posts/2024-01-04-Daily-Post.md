@@ -4,6 +4,8 @@ title:  "Daily Post! {1}"
 layout: post
 categories: Daily Post!111!!
 ---
+
+
 # Hey!! Welcome to the ***DAILY POST***.
 This is where i share seemingly random news with you and maybe drop some sneak peaks! {oooohhhh}
 But all i have for you today is a reminder to the people that contribute to the project. (and a sneak peak at whats to come)
