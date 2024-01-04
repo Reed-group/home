@@ -1,11 +1,7 @@
 
 # Hey!! Welcome to the ***DAILY POST***.
 
----
-title:  "Daily Post! {1}"
-layout: post
-categories: Daily Post!111!!
----
+
 This is where i share seemingly random news with you and maybe drop some sneak peaks! {oooohhhh}
 But all i have for you today is a reminder to the people that contribute to the project. (and a sneak peak at whats to come)
 Please, help me finish uc br1
@@ -14,7 +10,10 @@ Thanks for reading this far, whoever you are.
 
 
 
-
+---
+title:  "Daily Post! {1}"
+layout: post
+---
 
 
 
