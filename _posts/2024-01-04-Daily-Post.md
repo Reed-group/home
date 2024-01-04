@@ -1,3 +1,8 @@
+---
+title:  "Daily Post! {1}"
+layout: post
+categories: Daily Post
+---
 
 # Hey!! Welcome to the ***DAILY POST***.
 
@@ -9,11 +14,6 @@ I've litterally been doing it alone. {I even made the website alone..}
 Thanks for reading this far, whoever you are.
 
 
-
----
-title:  "Daily Post! {1}"
-layout: post
----
 
 
 
