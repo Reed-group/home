@@ -1,3 +1,4 @@
+
 ---
 title:  "Daily Post! {1}"
 layout: post
@@ -21,3 +22,6 @@ Thanks for reading this far, whoever you are.
 
 I think you deserve a sneak peak.
 <img width="925" alt="Screenshot 2024-01-03 at 1 36 03 PM" src="https://github.com/Reed-group/home/assets/77684463/d2a13cc4-44a1-493d-b292-44a7162f342d">
+secret? nah. dont scroll to the bottom tho. i might die if anyone finds out..
+
+stop!1!!!11
